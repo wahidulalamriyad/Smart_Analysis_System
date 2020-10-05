@@ -1,2 +1,2 @@
 # Smart_Analysis_System
- 
+SAS helps to detect unwanted individuals from school premises preventing the gun shooting. It can identify high-risk potentials with high accuracy. Users can track criminal locations in real-time, add citizens, authorities, and most wanted criminals in the database. It can be implemented in CCTV and can be used for many industries such as Academic Institutions, Banks, Hospitals, and many more. It can alert the authorities to prevent the gun from shooting before the crime takes place.
